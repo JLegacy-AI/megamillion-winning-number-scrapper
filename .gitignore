@@ -1,0 +1,12 @@
+# Node.js build artifacts
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Other temporary or generated files
+*.log
+*.temp
